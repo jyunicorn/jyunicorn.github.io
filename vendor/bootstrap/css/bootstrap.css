@@ -476,7 +476,7 @@ mark,
 }
 /*HEADER IMAGE OPACITY*/
 .img-header {
-  opacity: 0.5;
+  opacity: 0.75;
 }
 .img-thumbnail {
   padding: 0.25rem;
@@ -549,6 +549,29 @@ pre code {
   padding-left: 15px;
   margin-right: auto;
   margin-left: auto;
+}
+@media (min-width: 576px) {
+  .img-header {
+    max-width: 806px;
+  }
+}
+
+@media (min-width: 768px) {
+  .img-header {
+    max-width: 1075px;
+  }
+}
+
+@media (min-width: 992px) {
+  .img-header {
+    max-width: 1389px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .img-header {
+    max-width: 1680px;
+  }
 }
 
 @media (min-width: 576px) {
