@@ -1,4 +1,3 @@
-# jyunicorn.github.io
-Teaching/personal website
+#Jessica Yu Personal Website
 
-This site will contain teaching material and hopefully teaching recordings. 
+Most code content from Bootstrap, MIT License. All images and writing are personal property of Jessica Yu and may not be reused without permission.
